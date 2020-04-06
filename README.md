@@ -16,7 +16,7 @@
 
  ## Using `kompose`
 I use a set of files in Compose stacks - you'll need the following:
-* `docker-compose.yaml`
+* `docker-compose.yaml` ([Sample Compose](docker-compose.yaml))
 * `env-vars`
 * [Optional] `postman_vars.json` (If you're using `PingConfigurator` with API Collections - [Customer360](https://github.com/pingidentity/Customer360) / [Workforce360](https://github.com/pingidentity/Workforce360))
 
