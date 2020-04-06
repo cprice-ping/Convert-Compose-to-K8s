@@ -113,3 +113,4 @@ To see how the deployment is progressing:
 | `kubectl logs -f service/{{service}}` | Get the logs from the Service (this is easier) |
 | `kubectl logs -f job/pingconfig` | See the API Injection logs |
 | `kubectl describe pod/{{pod}}` | Detailed information about the Pod |
+| `kubectl delete -f {{folder}}` | Tear down the deployment |
